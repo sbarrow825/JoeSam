@@ -17,3 +17,6 @@ In order to write useful function, we'll oftentimes need to use comparisons of o
 * Open the `Comparison.js` file in VSCode
 * One by one, fill in the corresponding code
 * run `npm test` to test your functions
+
+# Resources
+A breakdown of JavaScript comparison operators can be found [here](https://www.w3schools.com/js/js_comparisons.asp)

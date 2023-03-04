@@ -8,3 +8,7 @@
 * add `console.log(result)` to the end of the file and run `node Add.js` one more time
 * Would changing the names of the variables `a` and `b` break our code? If so, what would need to be changed in order to fix it?
 * Does the order of our code matter? I.e does where we define the funciton `add`, where we declare the variables `a` and `b`, and where we call the function `add` need to happen in a certain sequence?
+
+# Resources
+
+Where in code variables can be accessed (ie are visible) is known as scope. This is a tough topic to fully understand but will come with time and practice. More info on JavaScript Scope can be found [here](https://www.w3schools.com/js/js_scope.asp)

@@ -1,6 +1,5 @@
 function lessThan(a, b) {
     // return true if a is less than b
-    return a < b
 }
 
 function greaterThan(a, b) {
