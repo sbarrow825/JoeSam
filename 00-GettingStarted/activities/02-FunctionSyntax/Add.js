@@ -2,9 +2,8 @@ function add(a, b) {
     return a + b
 }
 
-c = 1
-d = 2
+result1 = add(4, 7)
+result2 = add(3, 8)
 
-result = add(c, d)
-
-console.log(result)
+console.log(result1)
+console.log(result2)
