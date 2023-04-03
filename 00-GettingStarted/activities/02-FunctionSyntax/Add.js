@@ -1,9 +1,6 @@
 function add(a, b) {
+    console.log(a)
     return a + b
 }
 
-result1 = add(4, 7)
-result2 = add(3, 8)
-
-console.log(result1)
-console.log(result2)
+// add(2, 1)
